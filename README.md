@@ -1,4 +1,6 @@
 # LineFiller
+resource: https://github.com/mirror58229/LineFiller
+
 Leak-proofing line art filling and segmentation based on trapped-ball filling.
 
 The Full pipeline including different deep learning models and algorithm. For now, the repository only including trapped-ball filling(segmentation).
